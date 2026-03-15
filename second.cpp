@@ -1,5 +1,5 @@
 // Author: Nishant Sharma
-// Created: 2026-03-15 13:28:07
+// Created: 2026-03-15 13:53:07
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -17,14 +17,8 @@ int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0); cout.tie(0);
 
-    cout << "hi this is nishant";
 
-    int n; cin >> n;
-    cout << n;
+    cout << "this is my second file i will remove this file from being tracked";
 
-    auto cmp = [&](int a, int b){
-        return a < b;
-    };
-    
     return 0;
 }
