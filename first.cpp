@@ -25,6 +25,8 @@ int main() {
     auto cmp = [&](int a, int b){
         return a < b;
     };
-    
+
+    cout << "i am going to crack a big company" << endl;
+
     return 0;
 }
